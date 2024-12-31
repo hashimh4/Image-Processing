@@ -1,0 +1,4 @@
+Adjust "path_to_dataset" to contain the corrupted images
+Adjust "path_to_results" to contain the output image file
+Optionally adjust the output file name found at the bottom of the program
+Run the file to produce the images and video
